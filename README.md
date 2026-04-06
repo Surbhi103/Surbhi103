@@ -1,11 +1,5 @@
 Hey there! 👋 I'm Surbhi Kumari
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-blue)" (https://www.linkedin.com/in/surbhi-kumari-342528362?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-""Email" (https://img.shields.io/badge/Email-red)" (mailto:surbhikumari1027@gmail.com)
-""GitHub" (https://img.shields.io/badge/GitHub-black)" (https://github.com/Surbhi103)
-
----
-
 🌸 About Me
 
 🎓 B.Tech Computer Science & Engineering (2025–2029)

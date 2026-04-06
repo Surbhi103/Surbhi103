@@ -1,16 +1,53 @@
-## Hi there 👋
+Hey there! 👋 I'm Surbhi Kumari
 
-<!--
-**Surbhi103/Surbhi103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
+📍 Bihar, India
+💻 Interested in Programming & Web Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🌱 Learning Python and Programming Fundamentals
+- 💻 Exploring HTML & CSS
+- 📚 Working on improving core concepts
+- 🧠 Practicing problem solving
+
+---
+
+🛠️ Skills
+
+"Python" (https://img.shields.io/badge/Python-blue)
+"HTML" (https://img.shields.io/badge/HTML-orange)
+"CSS" (https://img.shields.io/badge/CSS-blue)
+
+---
+
+🔧 Tools
+
+"VS Code" (https://img.shields.io/badge/VS%20Code-blue)
+"Git" (https://img.shields.io/badge/Git-orange)
+"GitHub" (https://img.shields.io/badge/GitHub-black)
+
+---
+
+📊 GitHub Stats
+
+"GitHub stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+📌 Projects
+
+🔹 Python Basics (loops, patterns, functions)
+🔹 Simple Calculator (Python)
+
+---
+
+📫 Contact
+
+📧 your-surbhikumari1027@gmail.com
+
+---
+
+✨ Learning step by step.
